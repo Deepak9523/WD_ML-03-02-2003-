@@ -1,0 +1,5 @@
+width,height,Target
+5.3,21,Banana
+34.5,23,Banana
+23.5,21,Apple
+21.3,21,Apple
